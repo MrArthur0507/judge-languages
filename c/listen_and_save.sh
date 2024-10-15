@@ -1,6 +1,6 @@
 #!/bin/sh
 
-OUTPUT_FILE="output_code.c"
+OUTPUT_FILE="/app/output_code.c"
 
 echo "Listening for input."
 
